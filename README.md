@@ -1,7 +1,9 @@
 # 2-okt-2023
 
 ## Övningar
-Dagens övningar https://github.com/FU-JS23-html-och-css/2-okt-2023/tree/main/%C3%96vningar
+Dagens övning1 https://github.com/FU-JS23-html-och-css/2-okt-2023/tree/main/%C3%96vningar
+
+Dagens övning2
 ## Artiklar
 
 Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
